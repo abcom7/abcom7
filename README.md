@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in python,javascript,nodejs,mysql and other web technologies.
-- 🌱 I’m currently completed coding bootcamp.
-- 💞️ I’m looking to collaborate on full-stack web develpment projects
+- 👀 I’m Full Stack Web Developer in react js, redux, javascript, nodejs, and mysql.
+- 🌱 I’m completed my coding bootcamp on July 2022.
+- 💞️ I’m looking to collaborate on Full Stack web development projects.
 - 📫 How to reach me ...
 
 <!---
